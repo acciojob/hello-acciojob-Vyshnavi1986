@@ -2,11 +2,11 @@ main
 {
 	width="150px"
 	height="150px"
-	background color="black"
+	background color="#000000"
 }
 p.hello-accio
 {
-	text color="white"
+	text color="#ffffff"
 	left margin="32px"
 	padding-block="10px"
 }
